@@ -1,0 +1,17 @@
+body {
+    font-family: sans-serif; 
+    padding: 10px;    
+}
+h1 {
+    font-weight: bold;   
+    color: darkblue
+}
+label {
+     font-size: small;  
+     color: cornflowerblue 
+}
+#coordinates {
+    padding-bottom: 5px;
+    border-bottom: 1px solid #000;    
+}
+
